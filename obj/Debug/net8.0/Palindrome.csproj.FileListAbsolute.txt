@@ -1,0 +1,14 @@
+F:\Prog-Projects\Palindrome\Palindrome\bin\Debug\net8.0\Palindrome.exe
+F:\Prog-Projects\Palindrome\Palindrome\bin\Debug\net8.0\Palindrome.deps.json
+F:\Prog-Projects\Palindrome\Palindrome\bin\Debug\net8.0\Palindrome.runtimeconfig.json
+F:\Prog-Projects\Palindrome\Palindrome\bin\Debug\net8.0\Palindrome.dll
+F:\Prog-Projects\Palindrome\Palindrome\bin\Debug\net8.0\Palindrome.pdb
+F:\Prog-Projects\Palindrome\Palindrome\obj\Debug\net8.0\Palindrome.GeneratedMSBuildEditorConfig.editorconfig
+F:\Prog-Projects\Palindrome\Palindrome\obj\Debug\net8.0\Palindrome.AssemblyInfoInputs.cache
+F:\Prog-Projects\Palindrome\Palindrome\obj\Debug\net8.0\Palindrome.AssemblyInfo.cs
+F:\Prog-Projects\Palindrome\Palindrome\obj\Debug\net8.0\Palindrome.csproj.CoreCompileInputs.cache
+F:\Prog-Projects\Palindrome\Palindrome\obj\Debug\net8.0\Palindrome.dll
+F:\Prog-Projects\Palindrome\Palindrome\obj\Debug\net8.0\refint\Palindrome.dll
+F:\Prog-Projects\Palindrome\Palindrome\obj\Debug\net8.0\Palindrome.pdb
+F:\Prog-Projects\Palindrome\Palindrome\obj\Debug\net8.0\Palindrome.genruntimeconfig.cache
+F:\Prog-Projects\Palindrome\Palindrome\obj\Debug\net8.0\ref\Palindrome.dll
