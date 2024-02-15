@@ -4,11 +4,25 @@
     {
         string[] arryEx1 = ["eye", "california", "12321", "level", "was it a cat i saw"];
         string[] arryEx2 = ["Dubai", "amman", "Cairo", "fes"];
+        string[] arryEx3 = null;
 
+
+        var result = CheckArray(arryEx1);
+
+        if (result != string.Empty)
+            Console.WriteLine(result);
+        else
+            Console.WriteLine("No Word Found Match Criteria");
+
+    }
+
+    private static string CheckArray(string[] arry)
+    {
         string result = string.Empty;
-        foreach (string input in arryEx1)
+        if (arry == null)
+            return result;
+        foreach (string input in arry)
         {
-            //TODO getLength
             if (FindPalindrome(input) > 0)
             {
                 if (input.Length > result.Length)
@@ -17,12 +31,9 @@
                 }
             }
 
-        }
-        if (result != string.Empty)
-            Console.WriteLine(result);
-        else
-            Console.WriteLine("No Word Found Match Criteria");
 
+        }
+        return result;
     }
     private static int FindPalindrome(string input)
     {

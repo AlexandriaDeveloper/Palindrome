@@ -12,3 +12,4 @@ F:\Prog-Projects\Palindrome\Palindrome\obj\Debug\net8.0\refint\Palindrome.dll
 F:\Prog-Projects\Palindrome\Palindrome\obj\Debug\net8.0\Palindrome.pdb
 F:\Prog-Projects\Palindrome\Palindrome\obj\Debug\net8.0\Palindrome.genruntimeconfig.cache
 F:\Prog-Projects\Palindrome\Palindrome\obj\Debug\net8.0\ref\Palindrome.dll
+F:\Prog-Projects\Palindrome\Palindrome\obj\Debug\net8.0\Palindrome.sourcelink.json
